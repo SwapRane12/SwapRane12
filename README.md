@@ -1,6 +1,6 @@
 # Swapnil Rane
 
-[![Gmail Badge](https://img.shields.io/badge/-swaprr123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:swaprr12@gmail.com)](mailto:kraghav123@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-swaprr123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:swaprr12@gmail.com)](mailto:swaprr12@gmail.com)
 
 ## Hi 👋, 
 I'm Swapnil Rane, I'm a full-stack Developer 👨‍💻 who is passionate about web and mobile technologies and open source. I'm also a self procliamed graphic designer and internet surfer 
