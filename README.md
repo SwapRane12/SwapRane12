@@ -17,12 +17,6 @@ I'm Swapnil Rane, I'm a full-stack Developer 👨‍💻 who is passionate about
 -  ⚡ Other Techs: Linux, Docker,etc.
 
 
-> El Psy Kongroo
-
-
-
-
-
 -----
 Credits: [Swapnil Rane](https://github.com/SwapRane12)
 
