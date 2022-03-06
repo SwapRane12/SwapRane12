@@ -7,13 +7,11 @@ I'm Swapnil Rane, I'm a full-stack Developer 👨‍💻 who is passionate about
 🏄‍♂️. 
 
 - 🔭 I’m currently working on Web Apps
-- 🌱 I’m currently learning Rust
-- 🌱 I’m also have basic understanding of Java, Python.
 - 💬 Ask me about: tech, memes, 
 - 😄 Pronouns: he/him
--  ⚡ Languages: JavaScript,
+-  ⚡ Languages: JavaScript, Typescript
 -  ⚡ JavaScript libraries: ReactJs, NextJs, expressJs, prismaORM, typeORM, postCSS, tailwindCSS ,etc.
--  ⚡ Database: PostgreSQL,
+-  ⚡ Database: PostgreSQL,Redis
 -  ⚡ Other Techs: Linux, Docker,etc.
 
 
