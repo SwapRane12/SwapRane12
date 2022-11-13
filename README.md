@@ -10,9 +10,9 @@ I'm Swapnil Rane, I'm a full-stack Developer 👨‍💻 who is passionate about
 - 💬 Ask me about: tech, memes, 
 - 😄 Pronouns: he/him
 -  ⚡ Languages: JavaScript, Typescript
--  ⚡ JavaScript libraries: ReactJs, NextJs, expressJs, prismaORM, typeORM, postCSS, tailwindCSS ,etc.
--  ⚡ Database: PostgreSQL,Redis
--  ⚡ Other Techs: Linux, Docker,etc.
+-  ⚡ JavaScript libraries: ReactJs, NextJs, expressJs, prismaORM, typeORM, postCSS, tailwindCSS, GraphQLYoga, TypeGraphQL ,etc.
+-  ⚡ Database: PostgreSQL,Redis.
+-  ⚡ Other Techs: Graphql, Linux, Docker,etc.
 
 
 -----
