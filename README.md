@@ -16,6 +16,5 @@ I'm Swapnil Rane, I'm a full-stack Developer 👨‍💻 who is passionate about
 
 
 -----
-Credits: [Swapnil Rane](https://github.com/SwapRane12)
 
 Last Edited on: 14 dec 2021
