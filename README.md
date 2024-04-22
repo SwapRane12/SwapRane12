@@ -8,7 +8,7 @@ I'm Swapnil Rane, I'm a full-stack Developer 👨‍💻 who is passionate about
 
 - 🔭 I’m currently working on Web Apps
 - 💬 Ask me about: tech, memes,
-- [![Github Badge]( https://img.shields.io/badge/logo-gitlab-blue?logo=github)] current organizational account @swapviz
+- current organizational account @swapviz
 - 😄 Pronouns: he/him
 -  ⚡ Languages: JavaScript, Typescript
 -  ⚡ JavaScript libraries: ReactJs, NextJs, expressJs, prismaORM, typeORM, postCSS, tailwindCSS, GraphQLYoga, TypeGraphQL, TRPC, ,etc.
