@@ -11,7 +11,6 @@ I'm Swapnil Rane, I'm a full-stack Developer 👨‍💻 who is passionate about
 - current organizational account  [@swapviz](https://github.com/swapviz) 
 - 😄 Pronouns: he/him
 -  ⚡ Languages: JavaScript, Typescript
--  ⚡ JavaScript libraries: ReactJs, NextJs, expressJs, prismaORM, typeORM, postCSS, tailwindCSS, GraphQLYoga, TypeGraphQL, TRPC, ,etc.
 -  ⚡ Database: PostgreSQL,Redis.
 -  ⚡ Other Techs: Graphql, Linux, Docker,etc.
 
